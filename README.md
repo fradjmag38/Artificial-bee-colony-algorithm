@@ -1,6 +1,4 @@
-
-
-# Artificial Bee Colony Algorithm (Java Implementation) 🐝
+# Artificial Bee Colony Algorithm (Java Implementation) 
 
 [![Java](https://img.shields.io/badge/Java-11+-blue?logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -14,7 +12,7 @@ Il permet de modéliser et résoudre des problèmes d’optimisation via le dép
 ---
 
 ## Structure du projet
-
+```
 ABC/
 │
 ├─ src/
@@ -27,7 +25,7 @@ ABC/
 ├─ .classpath
 ├─ .pom
 └─ .gitlab-ci.yml
----
+```
 
 ## Prérequis
 - Java JDK 11 ou supérieur  
